@@ -19,7 +19,7 @@ To transform raw operational data into strategic insights through data storytell
 To ensure confidentiality and respect data sensitivity, all charts embedded in the shared Google Doc have been **unlinked** from their original data sources. This ensures no private or proprietary information is shared.
 
 ## 📝 Contents
-- 📄 `KPI_Insights_Qualitative_Analysis.pdf` — Sanitized version of the Google Doc with visuals and written explanations
+- 📄 Sanitized version of the Google Doc with visuals and written qualitative analyses
 
 ## 🔗 View the Sanitized Report
 [Click here to view the sanitized insights document](https://docs.google.com/document/d/1S_nYW4unVNVNCEyhoQ5sf83mcXS5GMe8XiyQnAHBb9o/edit?usp=sharing)  
