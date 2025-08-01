@@ -22,5 +22,5 @@ To ensure confidentiality and respect data sensitivity, all charts embedded in t
 - 📄 Sanitized version of the Google Doc with visuals and written qualitative analyses
 
 ## 🔗 View the Sanitized Report
-[Click here to view the sanitized insights document](https://docs.google.com/document/d/1S_nYW4unVNVNCEyhoQ5sf83mcXS5GMe8XiyQnAHBb9o/edit?usp=sharing)  
+[Click here to view the sanitized insights pdf](kpi_analysis.pdf)  
 > *(Read-only access; visuals are static only for security purposes.)*
